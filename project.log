@@ -32,3 +32,82 @@
 2026-03-10 17:04:09 | INFO | P1 | Pipeline executed successfully!
 2026-03-10 17:04:09 | INFO | P1 | ========================
 2026-03-10 17:04:09 | INFO | P1 | END main()
+2026-03-13 17:07:54 | INFO | P1 | === RUN START ===
+2026-03-13 17:07:54 | INFO | P1 | project=CINTEL
+2026-03-13 17:07:54 | INFO | P1 | repo_dir=cintel-01-getting-started
+2026-03-13 17:07:54 | INFO | P1 | python=3.14.2
+2026-03-13 17:07:54 | INFO | P1 | os=Windows 11
+2026-03-13 17:07:54 | INFO | P1 | shell=powershell
+2026-03-13 17:07:54 | INFO | P1 | cwd=src\cintel
+2026-03-13 17:07:54 | INFO | P1 | github_actions=False
+2026-03-13 17:07:54 | INFO | P1 | ========================
+2026-03-13 17:07:54 | INFO | P1 | START main()
+2026-03-13 17:07:54 | INFO | P1 | ========================
+2026-03-13 17:07:54 | INFO | P1 | ROOT_DIR = src\cintel
+2026-03-13 17:07:54 | INFO | P1 | DOCS_DIR = src\cintel\docs
+2026-03-13 17:07:54 | INFO | P1 | ========================
+2026-03-13 17:07:54 | INFO | P1 | Pipeline executed successfully!
+2026-03-13 17:07:54 | INFO | P1 | ========================
+2026-03-13 17:07:54 | INFO | P1 | END main()
+2026-03-13 17:12:33 | INFO | P1 | === RUN START ===
+2026-03-13 17:12:33 | INFO | P1 | project=CINTEL
+2026-03-13 17:12:33 | INFO | P1 | repo_dir=cintel-01-getting-started
+2026-03-13 17:12:33 | INFO | P1 | python=3.14.2
+2026-03-13 17:12:33 | INFO | P1 | os=Windows 11
+2026-03-13 17:12:33 | INFO | P1 | shell=powershell
+2026-03-13 17:12:33 | INFO | P1 | cwd=src\cintel
+2026-03-13 17:12:33 | INFO | P1 | github_actions=False
+2026-03-13 17:12:33 | INFO | P1 | ========================
+2026-03-13 17:12:33 | INFO | P1 | START main()
+2026-03-13 17:12:33 | INFO | P1 | ========================
+2026-03-13 17:12:33 | INFO | P1 | ROOT_DIR = src\cintel
+2026-03-13 17:12:33 | INFO | P1 | DOCS_DIR = src\cintel\docs
+2026-03-13 17:12:33 | ERROR | P1 | docs folder was not found.
+2026-03-13 17:13:29 | INFO | P1 | === RUN START ===
+2026-03-13 17:13:29 | INFO | P1 | project=CINTEL
+2026-03-13 17:13:29 | INFO | P1 | repo_dir=cintel-01-getting-started
+2026-03-13 17:13:29 | INFO | P1 | python=3.14.2
+2026-03-13 17:13:29 | INFO | P1 | os=Windows 11
+2026-03-13 17:13:29 | INFO | P1 | shell=powershell
+2026-03-13 17:13:29 | INFO | P1 | cwd=src\cintel
+2026-03-13 17:13:29 | INFO | P1 | github_actions=False
+2026-03-13 17:13:29 | INFO | P1 | ========================
+2026-03-13 17:13:29 | INFO | P1 | START main()
+2026-03-13 17:13:29 | INFO | P1 | ========================
+2026-03-13 17:13:29 | INFO | P1 | ROOT_DIR = .
+2026-03-13 17:13:29 | INFO | P1 | DOCS_DIR = docs
+2026-03-13 17:13:29 | INFO | P1 | ========================
+2026-03-13 17:13:29 | INFO | P1 | Pipeline executed successfully!
+2026-03-13 17:13:29 | INFO | P1 | ========================
+2026-03-13 17:13:29 | INFO | P1 | END main()
+2026-03-13 17:14:08 | INFO | P1 | === RUN START ===
+2026-03-13 17:14:08 | INFO | P1 | project=CINTEL
+2026-03-13 17:14:08 | INFO | P1 | repo_dir=cintel-01-getting-started
+2026-03-13 17:14:08 | INFO | P1 | python=3.14.2
+2026-03-13 17:14:08 | INFO | P1 | os=Windows 11
+2026-03-13 17:14:08 | INFO | P1 | shell=powershell
+2026-03-13 17:14:08 | INFO | P1 | cwd=src\cintel
+2026-03-13 17:14:08 | INFO | P1 | github_actions=False
+2026-03-13 17:14:08 | INFO | P1 | ========================
+2026-03-13 17:14:08 | INFO | P1 | START main()
+2026-03-13 17:14:08 | INFO | P1 | ========================
+2026-03-13 17:14:08 | INFO | P1 | ROOT_DIR = .
+2026-03-13 17:14:08 | INFO | P1 | DOCS_DIR = docs
+2026-03-13 17:14:08 | ERROR | P1 | docs folder was not found.
+2026-03-13 17:15:17 | INFO | P1 | === RUN START ===
+2026-03-13 17:15:17 | INFO | P1 | project=CINTEL
+2026-03-13 17:15:17 | INFO | P1 | repo_dir=cintel-01-getting-started
+2026-03-13 17:15:17 | INFO | P1 | python=3.14.2
+2026-03-13 17:15:17 | INFO | P1 | os=Windows 11
+2026-03-13 17:15:17 | INFO | P1 | shell=powershell
+2026-03-13 17:15:17 | INFO | P1 | cwd=src\cintel
+2026-03-13 17:15:17 | INFO | P1 | github_actions=False
+2026-03-13 17:15:17 | INFO | P1 | ========================
+2026-03-13 17:15:17 | INFO | P1 | START main()
+2026-03-13 17:15:17 | INFO | P1 | ========================
+2026-03-13 17:15:17 | INFO | P1 | ROOT_DIR = .
+2026-03-13 17:15:17 | INFO | P1 | DOCS_DIR = docs
+2026-03-13 17:15:17 | INFO | P1 | ========================
+2026-03-13 17:15:17 | INFO | P1 | Pipeline executed successfully!
+2026-03-13 17:15:17 | INFO | P1 | ========================
+2026-03-13 17:15:17 | INFO | P1 | END main()

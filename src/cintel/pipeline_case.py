@@ -1,15 +1,15 @@
 """
-pipeline_dawson.py - Project script (example).
+pipeline_case.py - Project script (example).
 
-Author: Branton Dawson
-Date: 2026-03-10
+Author: Denise Case
+Date: 2026-03-07
 
 Purpose:
   Confirm your project environment is set up correctly.
   Run this script to see a log message in the terminal.
 
 Run as a Module:
-  uv run python -m cintel.pipeline_dawson
+  uv run python -m cintel.pipeline_case
 """
 
 # === DECLARE IMPORTS ===
@@ -27,7 +27,7 @@ LOG: logging.Logger = get_logger("P1", level="DEBUG")
 
 # === DECLARE GLOBAL CONSTANTS FOR FOLDER PATHS (directories) ===
 
-ROOT_DIR: Path = Path(__file__).resolve().parents[2]
+ROOT_DIR: Path = Path.cwd()
 DOCS_DIR: Path = ROOT_DIR / "docs"
 
 # === DEFINE THE MAIN FUNCTION ===
@@ -47,10 +47,6 @@ def main() -> None:
 
     log_path(LOG, "ROOT_DIR", ROOT_DIR)
     log_path(LOG, "DOCS_DIR", DOCS_DIR)
-
-    if not DOCS_DIR.is_dir():
-        LOG.error("docs folder was not found.")
-        raise FileNotFoundError(f"Missing a required directory: {DOCS_DIR}")
 
     LOG.info("========================")
     LOG.info("Pipeline executed successfully!")

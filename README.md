@@ -61,6 +61,12 @@ Pipeline executed successfully!
 ========================
 ```
 
+## My Modification
+
+- Running the script:   uv run python pipeline_dawson.py
+
+** Added a check to see if the docs folder exist and log it if it does not.
+
 And a new file named `project.log` will appear in the project folder.
 
 Once you see it, you're 90% of the way there.
@@ -96,7 +102,7 @@ uv python pin 3.14
 uv sync --extra dev --extra docs --upgrade
 
 uvx pre-commit install
-git add -A
+uvx pre-commit install
 uvx pre-commit run --all-files
 
 uv run python -m cintel.pipeline_case
